@@ -41,16 +41,16 @@ Fordjour Gyasi Samuel
 Student ID: 11053488
 
 Screenshots of each page
-!(Homepage.png)
-!(About_page.png)
-!(Events_page.png)
-!(Contact_page.png)
-!(Short_courses_page.png)
-!(Undergraduate_page.png)
-!(Mphil_page.png)
-!(Phd_page.png)
-!(Distance_Admission_page.png)
-!(Admission_page.png)
+!(screenshots/Homepage.png)
+!(screenshots/About_page.png)
+!(screenshots/Events_page.png)
+!(screenshots/Contact_page.png)
+!(screenshots/Short_courses_page.png)
+!(screenshots/Undergraduate_page.png)
+!(screenshots/Mphil_page.png)
+!(screenshots/Phd_page.png)
+!(screenshots/Distance_Admission_page.png)
+!(screenshots/Admission_page.png)
 
 
 # What I've Learned

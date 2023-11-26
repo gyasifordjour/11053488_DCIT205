@@ -10,10 +10,17 @@ html{
 .main{
     width: 100%;
     background-position: center;
-    background: linear-gradient(  to top, rgba(5, 5, 5, 0.5)50%, rgba(7, 7, 7, 0.5)50%), url(images/1.jpg);    background-size: cover;
+    background-size: cover;
     height: 100vh;
   }
-    
+.main video{
+  width:100%;
+  height: 750px;
+  margin-top: 20px;
+  background-position: center;
+  background-size: cover;
+
+}  
 .navbar{
     width: 100%;
     height: 60px;
@@ -198,4 +205,19 @@ footer {
   
 }
 
+
+.social{
+  display: flex;
+  margin-left: 1000px;
+}
+.soc-item{
+  background-color: white;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+ 
+ 
+}
 

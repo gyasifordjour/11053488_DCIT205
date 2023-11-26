@@ -10,7 +10,7 @@ scroll-behavior: smooth;
 .main{
   width: 100%;
   background-position: center;
-  background: linear-gradient(  to top, rgba(5, 5, 5, 0.5)50%, rgba(7, 7, 7, 0.5)50%), url(images/rprof-683x869.jpeg);
+  background: linear-gradient(  to top, rgba(5, 5, 5, 0.5)50%, rgba(7, 7, 7, 0.5)50%), url(images/phd.jpg);
   background-size: cover;
   height: 100vh;
 }
@@ -284,3 +284,17 @@ display: flex;
 }
 
 
+.social{
+  display: flex;
+  margin-left: 1000px;
+}
+.soc-item{
+  background-color: white;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  
+ 
+}

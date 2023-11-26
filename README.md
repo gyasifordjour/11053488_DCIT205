@@ -4,7 +4,7 @@
 # Computer Science Department Website
 
 # Introduction
-Welcome to the Computer Science Department Website! This website serves as a central hub for information, resources, and updates related to the Computer Science Department at [Your University]. Whether you're a student, faculty member, or visitor, this platform aims to provide a seamless experience for accessing important information and staying connected with the department's activities.
+Welcome to the Computer Science Department Website! This website serves as a central hub for information, resources, and updates related to the Computer Science Department at  University of Ghana. Whether you're a student, faculty member, or visitor, this platform aims to provide a seamless experience for accessing important information and staying connected with the department's activities.
 
 
 # Purpose
@@ -41,16 +41,16 @@ Fordjour Gyasi Samuel
 Student ID: 11053488
 
 Screenshots of each page
-!(screenshots/Homepage.png)
-!(screenshots/About_page.png)
-!(screenshots/Events_page.png)
-!(screenshots/Contact_page.png)
-!(screenshots/Short_courses_page.png)
-!(screenshots/Undergraduate_page.png)
-!(screenshots/Mphil_page.png)
-!(screenshots/Phd_page.png)
-!(screenshots/Distance_Admission_page.png)
-!(screenshots/Admission_page.png)
+![Home](screenshots/Homepage.png)
+![About](screenshots/About_page.png)
+![Events](screenshots/Events_page.png)
+![Contact](screenshots/Contact_page.png)
+![Short_courses](screenshots/Short_courses_page.png)
+![Undergraduate](screenshots/Undergraduate_page.png)
+![Mphil](screenshots/Mphil_page.png)
+![Phd](screenshots/Phd_page.png)
+![Distance](screenshots/Distance_Admission_page.png)
+![Admission](screenshots/Admission_page.png)
 
 
 # What I've Learned
@@ -60,14 +60,15 @@ Web Development: Understanding the intricacies of building a responsive and inte
 
 User Experience Design: Enhancing the user experience through intuitive navigation, responsive design, and engaging content presentation.
 
-Version Control: I have had more insight in the use of Git and Github. That is how to fork a repository, make commit and how to make a pull request. Futher more some mistakes led me to do futher researches, like how to undo commit, revert and reset a commited and also how to delete a repository.
+Version Control: I have had more insight into the use of Git and Github. That is how to fork a repository, make a commit, and make a pull request. Furthermore, some mistakes led me to do further research, like how to undo a commit, revert and reset a commit, and also how to delete a repository.
 
 Contributing
-I welcome contributions from my course mates and adding new features, or improving documentation, your contributions make this project better for everyone. Check out our Contributing Guidelines for more information.
+I welcome contributions from my coursemates and adding new features, or improving documentation, your contributions make this project better for everyone. Check out our Contributing Guidelines for more information.
 
 
 
-Thank you for your interest and contributions to the Computer Science Website Department project!Feel free to explore the codebase, contribute, and provide feedback. We appreciate your interest and involvement in the Computer Science Department Website!
+Thank you for your interest and contributions to the Computer Science Website Department project! Feel free to explore the codebase, contribute, and provide feedback. We appreciate your interest and involvement in the Computer Science Department Website!
+
 
 
 

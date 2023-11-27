@@ -4,7 +4,7 @@
 # Computer Science Department Website
 
 # Introduction
-Welcome to the Computer Science Department Website! This website serves as a central hub for information, resources, and updates related to the Computer Science Department at  University of Ghana. Whether you're a student, faculty member, or visitor, this platform aims to provide a seamless experience for accessing important information and staying connected with the department's activities.
+Welcome to the Computer Science Department Website! This website serves as a central hub for information, resources, and updates related to the Computer Science Department at  the University of Ghana. Whether you're a student, faculty member, or visitor, this platform aims to provide a seamless experience for accessing important information and staying connected with the department's activities.
 
 
 # Purpose
@@ -53,7 +53,7 @@ Screenshots of each page
 ![Admission](screenshots/Admission_page.png)
 
 
-# What I've Learned
+# What I've Learnt 
 Throughout the development of this project, I've gained valuable experience and skills, including:
 
 Web Development: Understanding the intricacies of building a responsive and interactive website using modern web technologies.
